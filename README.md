@@ -1,28 +1,8 @@
 # Consistify — The ultimate companion for maintaining coding consistency on LeetCode and Codeforces
 
-> 🔔 Never miss your daily solve. 📅 Track consistency. 🔥 Protect your streak. 🛡️ Stay secure.
+🔔 Reminders · 📅 Daily check · 🔥 Streaks · 🛡️ JWT + local storage
 
-- **🔔 User‑scheduled reminders** at your personal cutoff time (e.g., 18:00)
-- **📅 Daily activity tracking** across LeetCode and Codeforces (status‑only, no brand images)
-- **🔥 Streak protection** so one busy day doesn’t break your momentum
-- **🧭 Simple, focused UX**: “Consistent Today” indicator and a monthly consistency calendar
-- **🛡️ Secure by design** with JWT auth and safe local storage
-
-<!-- Optional quick highlights as a compact table -->
-<table>
-  <tr>
-    <td>🔔 Reminders</td>
-    <td>📅 Daily Check</td>
-    <td>🔥 Streaks</td>
-    <td>🛡️ Secure</td>
-  </tr>
-  <tr>
-    <td>User‑defined time</td>
-    <td>One‑solve/day goal</td>
-    <td>Current & longest</td>
-    <td>JWT + local storage</td>
-  </tr>
-</table>
+Consistify is a smart, cross‑platform Flutter app that keeps your LeetCode/Codeforces practice on track. It checks whether you’ve solved a problem today and, at your personal cutoff time (e.g., 18:00), sends a precise reminder so you don’t skip a day or break your streak.
 ## 🚀 Problem
 - Missed days happen unintentionally. Developers get busy and forget to solve a problem, breaking streaks they worked hard to build.
 - Streak loss kills motivation. One lapse reduces streaks and breaks the habit loop that drives improvement.
