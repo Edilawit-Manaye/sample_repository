@@ -106,6 +106,7 @@ Example reminder text:
   <i>Note: Streaks start counting from your registration date in the app.</i>
 </p>
 
+
 <!-- Row 5: Profile -->
 <table>
   <tr>
