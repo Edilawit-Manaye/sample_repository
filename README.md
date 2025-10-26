@@ -1,5 +1,5 @@
 ##  Consistify: The Ultimate Companion for Maintaining Coding Consistency on LeetCode and Codeforces
-🔔 Reminders · 📅 Daily check · 🔥 Streaks · 🛡️ JWT + local storage
+🔔 Reminders  📅 Daily check  🔥 Streaks  🛡️ JWT + local storage
 
 Consistify is a smart, cross‑platform that keeps your LeetCode/Codeforces practice on track. It checks whether you’ve solved a problem today and, at your personal cutoff time (e.g., 18:00), sends a precise reminder so you don’t skip a day or break your streak.
 ## 🚨 Problem
