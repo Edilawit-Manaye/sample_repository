@@ -29,7 +29,7 @@ Example reminder text:
   Sends a notification at your chosen time if you haven’t solved a problem yet.
 
 - 📅 **Daily Consistency Status**  
-  Clear “Consistent Today” indicator with per‑platform status (no brand images).
+  Clear “Consistent Today” indicator with per‑platform status.
 
 - 🔥 **Streaks Overview**  
   See current and longest streaks to keep momentum high.
