@@ -1,6 +1,5 @@
-#                       # Consistify  # The ultimate companion for maintaining coding consistency on LeetCode and Codeforces
-
-
+##                       # Consistify   
+The ultimate companion for maintaining coding consistency on LeetCode and Codeforces
 🔔 Reminders · 📅 Daily check · 🔥 Streaks · 🛡️ JWT + local storage
 
 Consistify is a smart, cross‑platform Flutter app that keeps your LeetCode/Codeforces practice on track. It checks whether you’ve solved a problem today and, at your personal cutoff time (e.g., 18:00), sends a precise reminder so you don’t skip a day or break your streak.
