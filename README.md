@@ -21,9 +21,9 @@
     <td align="center">
       <img src="docs/register_1.jpg" width="240" alt="Register"/>
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <img src="docs/register_2.jpg" width="220" alt="Time Picker"/>
-    </td>
+    </td> -->
     <td align="center">
       <img src="docs/register_3.jpg" width="240" alt="Register (variant)"/>
     </td>
