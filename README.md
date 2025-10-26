@@ -22,20 +22,27 @@ Example reminder text:
 - “Don’t lose today! One quick solve preserves your consistency.”
 
 ## ✨ Key Features
-- ... Authentication & Profile  
+
+- 🔐 **Authentication & Profile**  
   Email + password (JWT). Update username, set daily notification time, manage platform usernames.
-- ••• Personalized Reminder  
-  Sends a notification at your chosen time if no problem is solved yet.
-- ••• Daily Consistency Status  
-  “Consistent Today” indicator with per‑platform status (no brand images).
-- ••• Streaks Overview  
-  Current streak and longest streak at a glance.
-- ••• Consistency Calendar  
-  Monthly calendar with green highlights for consistent days.
-- ••• Push & Local Notifications  
-  Firebase Cloud Messaging + local notifications for timely nudges.
-- ••• Secure Local Storage  
-  Tokens and minimal state cached via secure and shared storage.
+
+- 🔔 **Personalized Reminder**  
+  Sends a notification at your chosen time if you haven’t solved a problem yet.
+
+- 📅 **Daily Consistency Status**  
+  Clear “Consistent Today” indicator with per‑platform status (no brand images).
+
+- 🔥 **Streaks Overview**  
+  See current and longest streaks to keep momentum high.
+
+- 🗓️ **Consistency Calendar**  
+  Monthly calendar with green highlights for completed days.
+
+- 📬 **Push & Local Notifications**  
+  Firebase Cloud Messaging + local notifications for reliable, on‑time nudges.
+
+- 🛡️ **Secure Local Storage**  
+  Tokens and minimal state stored safely (`shared_preferences`, `flutter_secure_storage`).
 
 ## 📸 Screenshots
 
