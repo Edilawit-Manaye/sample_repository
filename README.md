@@ -1,17 +1,14 @@
-# Consistify
+# Consistify — The ultimate companion for maintaining coding consistency on LeetCode and Codeforces
 
 Consistify is a smart, cross‑platform Flutter app that helps developers keep their LeetCode/Codeforces practice consistent. It monitors daily activity and, at a user‑chosen cutoff time, sends a precise reminder so you don’t unintentionally skip a day and lose momentum.
 
-## About Consistify
-Consistify helps you build and protect your daily problem‑solving habit. Set your own reminder time, get a timely nudge, and keep your streak alive.
-
-## The Problem
+## 🚀 Problem
 - Missed days happen unintentionally. Developers get busy and forget to solve a problem, breaking streaks they worked hard to build.
 - Streak loss kills motivation. One lapse reduces streaks and breaks the habit loop that drives improvement.
 - Skill erosion over time. Irregular practice slows progress and weakens problem‑solving fluency.
 - No timely nudge. People don’t get reminders at the right time for them. Without a reminder set to their own schedule, they can easily miss the time to solve a problem.
 
-## The Solution
+## 💡 Solution
 Consistify tracks whether you solved a problem today and pairs it with a user‑defined notification time (set during registration or in Profile). If you haven’t solved anything by that time, the app sends a clear, actionable reminder to protect your streak and keep your skills sharp.
 
 ### How it works
@@ -23,23 +20,23 @@ Example reminder text:
 - “It’s 18:00 — solve one problem now to keep your streak alive.”
 - “Don’t lose today! One quick solve preserves your consistency.”
 
-## Features
-- Authentication & Profile  
+## ✨ Key Features
+- ••• Authentication & Profile  
   Email + password (JWT). Update username, set daily notification time, manage platform usernames.
-- Personalized Reminder  
+- ••• Personalized Reminder  
   Sends a notification at your chosen time if no problem is solved yet.
-- Daily Consistency Status  
+- ••• Daily Consistency Status  
   “Consistent Today” indicator with per‑platform status (no brand images).
-- Streaks Overview  
+- ••• Streaks Overview  
   Current streak and longest streak at a glance.
-- Consistency Calendar  
+- ••• Consistency Calendar  
   Monthly calendar with green highlights for consistent days.
-- Push & Local Notifications  
+- ••• Push & Local Notifications  
   Firebase Cloud Messaging + local notifications for timely nudges.
-- Secure Local Storage  
+- ••• Secure Local Storage  
   Tokens and minimal state cached via secure and shared storage.
 
-## Screenshots
+## 📸 Screenshots
 
 <!-- Row 1: Welcome -->
 <table>
@@ -116,7 +113,7 @@ Example reminder text:
   </tr>
 </table>
 
-## Tech Stack
+## 🧰 Tech Stack
 - Flutter · Dart  
 - flutter_bloc · bloc  
 - http · JWT auth  
@@ -124,6 +121,3 @@ Example reminder text:
 - shared_preferences · flutter_secure_storage  
 - get_it (DI) · dartz (Either)  
 - table_calendar
-
-## Status
-- Actively developed. Play Store deployment pending. README showcases the app with screenshots; platform brand images are not used; per‑platform status shows “Solved / Not Solved”.
