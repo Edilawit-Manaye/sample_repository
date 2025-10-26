@@ -101,6 +101,11 @@ Example reminder text:
     </td>
     
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <i>Note: Streaks start counting from your registration date in the app.</i>
+    </td>
+  </tr>
 </table>
 <div align="center"><i>Note: Streaks start counting from your registration date in the app.</i></div>
 
