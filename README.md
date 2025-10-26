@@ -35,9 +35,6 @@ Example reminder text:
 - 🔥 **Streaks Overview**  
   See current and longest streaks to keep momentum high.
 
-- 🗓️ **Consistency Calendar**  
-  Monthly calendar with green highlights for completed days.
-
 - 📬 **Push & Local Notifications**  
   Firebase Cloud Messaging + local notifications for reliable, on‑time nudges.
 
