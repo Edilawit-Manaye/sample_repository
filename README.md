@@ -1,4 +1,4 @@
-                       # Consistify 
+#                       # Consistify 
 The ultimate companion for maintaining coding consistency on LeetCode and Codeforces
 
 🔔 Reminders · 📅 Daily check · 🔥 Streaks · 🛡️ JWT + local storage
