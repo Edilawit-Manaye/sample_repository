@@ -22,7 +22,7 @@ Example reminder text:
 - “Don’t lose today! One quick solve preserves your consistency.”
 
 ## ✨ Key Features
-- # Authentication & Profile  
+- ... Authentication & Profile  
   Email + password (JWT). Update username, set daily notification time, manage platform usernames.
 - ••• Personalized Reminder  
   Sends a notification at your chosen time if no problem is solved yet.
