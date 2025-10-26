@@ -129,7 +129,7 @@ Example reminder text:
   <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white" />
 </p>
 
-- Gin (Go) · MongoDB · JWT + bcrypt · Firebase Admin (FCM) · Docker · Postman
+
 
 ### Frontend (Mobile)
 <p>
@@ -140,4 +140,4 @@ Example reminder text:
   <img src="https://img.shields.io/badge/Network-internet__connection__checker-0A72B8" />
 </p>
 
-- Flutter · BLoC (`flutter_bloc`) · get_it (DI) · shared_preferences · internet_connection_checker
+
