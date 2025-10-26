@@ -1,4 +1,3 @@
 ## Screenshots
 
-
-https://github.com/Edilawit-Manaye/sample_repository/blob/a367d92eaea90ff6bb0799e01d63b453a03b530e/kllll.jpg
+![Screenshot 1](https://github.com/Edilvant-Maneyas/sample_repository/blob/a36702aeea986b0f7996b1d634b543b63e3c4f11.jpg)
