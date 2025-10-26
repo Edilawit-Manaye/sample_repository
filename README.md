@@ -2,7 +2,7 @@
 🔔 Reminders · 📅 Daily check · 🔥 Streaks · 🛡️ JWT + local storage
 
 Consistify is a smart, cross‑platform that keeps your LeetCode/Codeforces practice on track. It checks whether you’ve solved a problem today and, at your personal cutoff time (e.g., 18:00), sends a precise reminder so you don’t skip a day or break your streak.
-## 🚀 Problem
+## 🚨 Problem
 - Missed days happen unintentionally. Developers get busy and forget to solve a problem, breaking streaks they worked hard to build.
 - Streak loss kills motivation. One lapse reduces streaks and breaks the habit loop that drives improvement.
 - Skill erosion over time. Irregular practice slows progress and weakens problem‑solving fluency.
