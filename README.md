@@ -3,7 +3,7 @@
 <!-- Row 1: Welcome -->
 <table>
   <tr>
-    <th>Welcome</th>
+    <th>Welcome Screen</th>
   </tr>
   <tr>
     <td align="center">
@@ -45,17 +45,17 @@
 <!-- Row 4: Two Dashboards with captions -->
 <table>
   <tr>
-    <th>Dashboard — Before solving</th>
-    <th>Dashboard — After solving</th>
+    <th>Dashboard — Before solving problem</th>
+    <th>Dashboard — After solving problem</th>
   </tr>
   <tr>
     <td align="center">
       <img src="docs/not_consistent.jpg" width="260" alt="Dashboard - Not Consistent"/>
-      <div><i>Not Yet Consistent Today</i></div>
+      <div><i></i></div>
     </td>
     <td align="center">
       <img src="docs/consistent.jpg" width="260" alt="Dashboard - Consistent"/>
-      <div><i>Consistent Today!</i></div>
+      <div><i></i></div>
     </td>
   </tr>
 </table>
