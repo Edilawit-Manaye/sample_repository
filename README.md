@@ -99,6 +99,9 @@ Example reminder text:
       <img src="docs/consistent.jpg" width="260" alt="Dashboard - Consistent"/>
       <div><i>Consistent Today!</i></div>
     </td>
+    <p align="center" style="margin-top: 8px;">
+  <i>Note: Streaks start counting from your registration date in the app.</i>
+</p>
   </tr>
 </table>
 
