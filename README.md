@@ -119,36 +119,25 @@ Example reminder text:
 
 ## 🧰 Tech Stack
 
+### Backend
 <p>
-  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-(Go)-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Atlas%2FCommunity-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth-JWT%20%2B%20bcrypt-FF6F00?logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Admin%20(FCM)-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white" />
 </p>
 
+- Gin (Go) · MongoDB · JWT + bcrypt · Firebase Admin (FCM) · Docker · Postman
+
+### Frontend (Mobile)
 <p>
+  <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/BLoC-flutter__bloc-42A5F5?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC-bloc-0A72B8?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/DI-get__it-795548" />
+  <img src="https://img.shields.io/badge/Storage-shared__preferences-43A047" />
+  <img src="https://img.shields.io/badge/Network-internet__connection__checker-0A72B8" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/HTTP-http-5E81AC?logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth-JWT-FF6F00?logo=jsonwebtokens&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Notifications-Firebase%20Cloud%20Messaging-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Local- flutter__local__notifications -7CB342?logo=googlecalendar&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Storage-shared__preferences-43A047?logo=googledrive&logoColor=white" />
-  <img src="https://img.shields.io/badge/Secure- flutter__secure__storage -2E7D32?logo=databricks&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/DI-get__it-795548?logo=dependency&logoColor=white" />
-  <img src="https://img.shields.io/badge/Functional-dartz-00695C?logo=abstract&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/UI-table__calendar-5C6BC0?logo=googlecalendar&logoColor=white" />
-</p>
+- Flutter · BLoC (`flutter_bloc`) · get_it (DI) · shared_preferences · internet_connection_checker
