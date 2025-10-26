@@ -119,10 +119,37 @@ Example reminder text:
 </table>
 
 ## 🧰 Tech Stack
-- Flutter · Dart  
-- flutter_bloc · bloc  
-- http · JWT auth  
-- Firebase Cloud Messaging · flutter_local_notifications  
-- shared_preferences · flutter_secure_storage  
-- get_it (DI) · dartz (Either)  
-- table_calendar
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/BLoC-flutter__bloc-42A5F5?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-bloc-0A72B8?logo=flutter&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/HTTP-http-5E81AC?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth-JWT-FF6F00?logo=jsonwebtokens&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Notifications-Firebase%20Cloud%20Messaging-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Local- flutter__local__notifications -7CB342?logo=googlecalendar&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Storage-shared__preferences-43A047?logo=googledrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure- flutter__secure__storage -2E7D32?logo=databricks&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/DI-get__it-795548?logo=dependency&logoColor=white" />
+  <img src="https://img.shields.io/badge/Functional-dartz-00695C?logo=abstract&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/UI-table__calendar-5C6BC0?logo=googlecalendar&logoColor=white" />
+</p>
